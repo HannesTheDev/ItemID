@@ -1,0 +1,9 @@
+name: ItemID
+main: HannesTheDev\ItemID\Main
+version: 1.0.0
+api: 3.0.0
+author: HannesTheDev
+
+commands:
+  id:
+    description: "See the ID"
