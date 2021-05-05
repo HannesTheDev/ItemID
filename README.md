@@ -6,7 +6,7 @@ Find out the id of all blocks by a simple command.
 ## Commands
 Commands | Description | Default | Aliases | Permissions
 --------- | ------------------- | ------- | ---------- | -----------
-``/itemid`` | ``See the ID of your Item`` | ``true`` | ``id`` | ``nonr``
+``/itemid`` | ``See the ID of your Item`` | ``true`` | ``id`` | ``none``
 
 ## Picture
 <img src="https://github.com/HannesTheDev/ItemID/blob/main/itemid.png"></img> <br>
